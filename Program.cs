@@ -109,7 +109,7 @@ namespace Calculator
             Console.ReadKey();
             Menu();
 
-            Console.WriteLine();
+            Console.
         }
 
     }
