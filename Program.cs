@@ -108,6 +108,8 @@ namespace Calculator
             Console.WriteLine($"O resultado da Multiplicação é {resultado}");
             Console.ReadKey();
             Menu();
+
+            Console.WriteLine();
         }
 
     }
